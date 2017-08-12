@@ -1,0 +1,157 @@
+nav.navbar {
+  height: 60px;
+  background-color: #06a0e9;
+  border-bottom: 1px solid #337ab7;
+}
+footer nav.navbar {
+  background-color: #dd191e;
+  height: 25px;
+  text-align: center;
+  color: white;
+  padding-top: 5px;
+  border-top: 1px solid #b4b3b0;
+}
+a.btn-link:hover {
+  color: white;
+  background: #dd191e;
+}
+nav img {
+  width: 190px;
+}
+.cont-status {
+  height: 100%;
+}
+.status {
+  font-size: 14pt;
+  padding-right: 20px;
+  color: black;
+}
+.navbar-default .btn-link {
+    color: #FFF;
+    background: #5cb85c;
+    height: 100%
+  }
+.navbar-default .btn-link i {
+      top : 10px;
+}
+.navbar-default .btn-link:hover{
+  color: #000
+}
+section.content {
+  margin-top: 60px;
+}
+section aside {
+  height: 600px;
+}
+aside a {
+  width: 100%;
+  height: 100%;
+  display: block;
+  padding-top: 15px;
+  padding-left: 15px;
+}
+aside a:hover {
+  text-decoration: none;
+  background: #dd191e;
+  color: white;
+  margin-bottom: 0px;
+}
+aside a:hover li {
+    height: 60px;
+}
+section.main-content{
+  height: auto;
+  border-left: 2px solid #b4b3b0;
+  margin-bottom: 45px;
+  padding-bottom: 20px;
+}
+section.main-content > .row{
+  margin-bottom: 45px;
+}
+ul.menu {
+  padding: 0;
+  margin: 0;
+}
+
+ul.menu li{
+  display: block;
+  width: 100%;
+  height: 50px;
+  border-bottom: 1px solid #b4b3b0;
+}
+li i {
+  font-size: 20px;
+  width: 30px;
+  height: 50%;
+
+}
+.content-header {
+  padding: 15px;
+}
+.content .isi {
+  margin: 80px auto;
+  text-align: center;
+}
+.isi a{
+  display: inline-block;
+  position: relative;
+  background-color: #06a0e9;
+  width: 250px;
+  height: 140px;
+  margin-right: 50px;
+  text-align: center;
+  border: 2px solid #b4b3b0;
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+  border-radius: 10px;
+  margin-bottom: 50px;
+}
+.isi a:hover{
+  text-decoration: none;
+  background: #dd191e;
+}
+.isi a i {
+  font-size: 56px;
+  color: white;
+  margin-top: 20px;
+}
+div.i-foto{
+  float: left;
+  text-align: center;
+}
+div.i-data {
+  float: left;
+  border-left: 2px solid grey;
+}
+div.i-data-2 {
+  background: #e9e9e9;
+  border: 1px solid #d1d1d1;
+}
+div.i-foto {
+  padding: 0 15px;
+}
+div.i-foto img{
+  height: 200px;
+  width: 300px;
+  box-shadow: 2px 2px 7px black, -2px -2px 7px black;
+}
+
+.form-horizontal .control-label {
+  padding-top: 7px;
+  margin-bottom: 0;
+  text-align: left;
+  padding-left: 40px;
+}
+.visitor {
+  width:  : 20%;
+  margin-right: 2%;
+  display: inline-block;
+}
+.label-info {
+  font-size: 20px;
+}
+.waktu-keluar {
+    margin-top: -5px;
+    padding-top: 2px;
+}
