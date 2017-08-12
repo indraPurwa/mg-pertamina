@@ -1,2 +1,5 @@
 # mg-pertamina
-projek ini dibuat karena tuntutan saat magang di pt pertamina MOR II sumbagsel 
+
+hai teman!
+saya indra purwa laksana web develooper!
+saya merubah banyak di projek ini
